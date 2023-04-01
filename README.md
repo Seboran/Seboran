@@ -1,6 +1,6 @@
 # 👋 Hello, je m'appelle Nirina Rabeson
 
-Je suis développeur fullstack Vue, Angular, Java spring/hibernate flexible.
+Je suis développeur front qui aime Vue
 
 J'aime travailler sur toutes les facettes d'une application, de son UX jusqu'à sa réalisation complète.
 
