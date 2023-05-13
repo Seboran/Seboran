@@ -1,8 +1,10 @@
 # 👋 Hello, je m'appelle Nirina Rabeson
 
-Je suis développeur front qui aime Vue
+Je suis développeur front qui aime Vue.js.
 
 J'aime travailler sur toutes les facettes d'une application, de son UX jusqu'à sa réalisation complète.
+
+Je suis aussi un grand fan des sujets un peu tordus et chelous... Et je joue de la musique.
 
 ## Ma présence en ligne
 
