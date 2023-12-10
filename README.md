@@ -1,8 +1,8 @@
 # 👋 Hello, je m'appelle Nirina Rabeson
 
-Je suis développeur front chez [Zenika Lyon](https://github.com/Zenika) qui aime Vue.js.
+Je suis développeur front chez [Zenika Lyon](https://github.com/Zenika), spécialisé en Vue.js.
 
-J'aime aussi la musique et mon chat pas trop débile mais très bavard 🐈‍⬛.
+J'aime aussi la musique et mon chat pas trop débile mais très bavard. 🐈‍⬛
 
 ## Ma présence en ligne
 
@@ -39,6 +39,20 @@ https://seboran.github.io/jeu-du-debat/
 Cette appli permet de générer une adresse publique ethereum personnalisée en générant des millions de combinaisons
 
 https://seboran.github.io/ethereum-wallet-generator/
+
+## Quelques hot-takes
+
+Je pense qu'il y a trop de sujets dans le développement que l'on ne remet pas assez en question. Voici mes "hot-takes" qui ont pour but d'inciter à la discussion et à l'échange, listés sans ordre particulier :
+
+1. Pourquoi coder en typescript quand jsdoc fait la même chose en plus efficace ?
+2. Pourquoi le JSX n'est pas l'option par défaut en vue.js ?
+3. Est-ce qu'il y a vraiment besoin de faire du front quand il suffit de bien stocker ses tables et ses vues dans sa bdd ?
+4. Bun est overhypped, comme l'était yarn.
+5. Si github copilot aide vraiment un développeur à mieux coder, c'est qu'il est encore junior.
+6. Les tests unitaires côté front-end sont beaucoup plus simples à écrire que côté back-end, et pourtant personne n'en fait.
+7. Pourquoi faire du web quand la majorité des utilisateurs sont sur mobile ?
+8. On ne devrait coder que sur gitpod.
+9. More to come...
 
 ## Me contacter
 
