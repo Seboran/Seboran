@@ -6,21 +6,7 @@ J'aime aussi la musique et mon chat pas trop débile mais très bavard 🐈‍�
 
 ## Ma présence en ligne
 
-Quelques articles, vidéos, ou contenus divers auxquels on peut accéder en ligne (coucou maman)
-
-### Transpilation : Comment coder dans un langage quand on ne saît pas coder dans ce langage
-
-Comment passer pour un expert d'un langage de programmation quand on ne connaît pas du tout ce langage de programmation ?
-
-C'est la question à laquelle je vais vous répondre au travers de cette présentation sur la transpilation et comment cela m'a permis d'écrire du COBOL à partir de javascript.
-
-On y verra aussi des utilisations concrètes pour améliorer votre expérience de dévelopeur·se.
-
 https://www.youtube.com/watch?v=0GqW6x9yV2o
-
-### 3 techniques pour mieux développer en Javascript avec ChatGPT.
-
-Dans cet article je vous présente comment je me sers de ChatGPT+ pour coder en Javascript et améliorer la qualité de mon code, simplifier mes tâches et apprendre plus rapidement de nouveaux concepts :
 
 https://medium.zenika.com/3-techniques-pour-mieux-d%C3%A9velopper-en-javascript-avec-chatgpt-c5731d058586
 
