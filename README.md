@@ -6,11 +6,15 @@ J'aime aussi la musique et mon chat pas trop débile mais très bavard. 🐈‍�
 
 ## Ma présence en ligne
 
+Vous savez résoudre un sudoku ? Vous savez composer de la musique. C'est presque de la magie, mais ça marche vraiment. On y parlera de bases de génération de contenu procédural, et de comment on peut (de très loin) les utiliser pour créer de la musique :
+
+https://youtu.be/Z7qAp7IA1ZA?si=Hi4LAlmuqRd9sdwt
+
 Mon premier talk à Zenika ! On y parle de transpilation (pardon ?) et de comment coder dans un langage quand on ne connaît pas ce langage, c'est parti ! Ça dure 24 minutes :
 
 https://www.youtube.com/watch?v=0GqW6x9yV2o
 
-Un petit article de blog sur comment mieux utiliser chatGPT pour réussir à coder. Depuis j'avoue que je reviendrais pas mal sur cet article, car les choses ont changé et globalement chatGPT et Copilot sont plus des obstacles à bien coder aujourd'hui.
+Un petit article de blog sur comment mieux utiliser chatGPT pour réussir à coder. Depuis j'avoue que je reviendrais pas mal sur cet article, car les choses ont changé et globalement chatGPT et Copilot sont maintenant des obstacles pour un monde meilleur.
 
 https://medium.zenika.com/3-techniques-pour-mieux-d%C3%A9velopper-en-javascript-avec-chatgpt-c5731d058586
 
