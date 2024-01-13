@@ -6,47 +6,25 @@ J'aime aussi la musique et mon chat pas trop débile mais très bavard. 🐈‍�
 
 ## Ma présence en ligne
 
-Vous savez résoudre un sudoku ? Vous savez composer de la musique. C'est presque de la magie, mais ça marche vraiment. On y parlera de bases de génération de contenu procédural, et de comment on peut (de très loin) les utiliser pour créer de la musique :
+### Conférences
+
+#### Vous savez résoudre un sudoku ? Vous savez composer de la musique !
+
+C'est presque de la magie, mais ça marche vraiment. On y parlera de bases de génération de contenu procédural, et de comment on peut (de très loin) les utiliser pour créer de la musique :
 
 https://youtu.be/Z7qAp7IA1ZA?si=Hi4LAlmuqRd9sdwt
+
+#### Transpilation : comment coder dans un langage quand on ne le connaît pas ?
 
 Mon premier talk à Zenika ! On y parle de transpilation (pardon ?) et de comment coder dans un langage quand on ne connaît pas ce langage, c'est parti ! Ça dure 24 minutes :
 
 https://www.youtube.com/watch?v=0GqW6x9yV2o
 
+### Un peu de lecture
+
 Un petit article de blog sur comment mieux utiliser chatGPT pour réussir à coder. Depuis j'avoue que je reviendrais pas mal sur cet article, car les choses ont changé et globalement chatGPT et Copilot sont maintenant des obstacles pour un monde meilleur.
 
 https://medium.zenika.com/3-techniques-pour-mieux-d%C3%A9velopper-en-javascript-avec-chatgpt-c5731d058586
-
-## Mes projets
-
-Quelques projets à moi que j'ai pu développer sur mon temps libre
-
-### [WIP] Propagation d'ondes : vous savez résoudre un Sudoku ? Vous savez composer de la musique !
-
-La propagation d'ondes est un concept qui permet de générer du contenu procédural en "propageant" une solution dans un problème à résoudre. Sur cette application, je propose comment appliquer ce concept à la résolution d'un Sudoku, et ensuite comment le généraliser pour créer n'importe quel contenu en fonctions de règles, par exemple pour composer de la musique.
-
-https://generateur-musique-visualisation.vercel.app/
-
-https://github.com/Seboran/generateur-musique
-
-### Modification d'AST et génération de code source
-
-Repo de base servant pour mon talk sur la transpilation. Les sources sont accessibles à toutes et à tous :
-
-https://github.com/Seboran/transpilation-ts
-
-### Jeu du débat
-
-Un jeu dans lequel il faut débattre autour d'un sujet choisi au hasard... mais une personne dans la foule ne connaît pas le sujet !
-
-https://seboran.github.io/jeu-du-debat/
-
-### Générateur de clef ethereum personnalisée (vanity key)
-
-Cette appli permet de générer une adresse publique ethereum personnalisée en générant des millions de combinaisons
-
-https://seboran.github.io/ethereum-wallet-generator/
 
 ## Quelques hot-takes
 
