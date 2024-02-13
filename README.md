@@ -6,6 +6,10 @@ J'aime aussi la musique et mon chat pas trop débile mais très bavard. 🐈‍�
 
 ## Ma présence en ligne
 
+### Mon blog
+
+J'ai un blog ! Et j'écris dedans ! <https://dev.to/seboran>
+
 ### Conférences
 
 #### Vous savez résoudre un sudoku ? Vous savez composer de la musique !
@@ -19,6 +23,8 @@ https://youtu.be/Z7qAp7IA1ZA?si=Hi4LAlmuqRd9sdwt
 Mon premier talk à Zenika ! On y parle de transpilation (pardon ?) et de comment coder dans un langage quand on ne connaît pas ce langage, c'est parti ! Ça dure 24 minutes :
 
 https://www.youtube.com/watch?v=0GqW6x9yV2o
+
+Pour info, je suis en train de réutiliser ce projet pour créer mon propre framework front-end javascript : https://github.com/Seboran/nirina.js
 
 ### Un peu de lecture
 
