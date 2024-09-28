@@ -8,7 +8,7 @@ J'aime aussi la musique et mon chat pas trop débile mais très bavard. 🐈‍�
 
 ### Mon blog
 
-J'ai un blog ! Et j'écris dedans ! <https://dev.to/seboran>
+J'ai un blog ! Et j'écris dedans ! <https://nirinarabeson.fr>
 
 ### Conférences
 
