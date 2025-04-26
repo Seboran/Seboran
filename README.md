@@ -1,6 +1,6 @@
 # 👋 Hello, je m'appelle Nirina Rabeson
 
-Je suis développeur front chez [Zenika Lyon](https://github.com/Zenika), spécialisé en Vue.js.
+Je suis développeur front spécialisé en Vue.js.
 
 J'aime aussi la musique et mon chat pas trop débile mais très bavard. 🐈‍⬛
 
